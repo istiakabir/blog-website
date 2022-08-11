@@ -1,0 +1,8 @@
+.blog{
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+}
+.blog-title{
+font-weight: bold;
+}
